@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "745046275984",
+    "firebase_url": "https://cbse-pe-11th-and-12th-9f20b.firebaseio.com",
+    "project_id": "cbse-pe-11th-and-12th-9f20b",
+    "storage_bucket": "cbse-pe-11th-and-12th-9f20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745046275984:android:ca8ef41282d898d0c96515",
+        "android_client_info": {
+          "package_name": "com.CBSEPhysicalEducationSolutions.cbsepe11thand12th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745046275984-d8jfgsp9le8lt1v2q6mrd4iu6f0fb7i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CBSEPhysicalEducationSolutions.cbsepe11thand12th",
+            "certificate_hash": "1e36801f31a8125ee76a9c34acbe44af109a2504"
+          }
+        },
+        {
+          "client_id": "745046275984-oqap8fm0k5npq2saae65sf99c16l0rge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZdLAgi6WDz9yNIR2g7Z_zmPolfwqTW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745046275984-oqap8fm0k5npq2saae65sf99c16l0rge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745046275984:android:31428fdfe1d3e24ac96515",
+        "android_client_info": {
+          "package_name": "com.cbsephysicaleducationsolutions.cbsephysicaleducationsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745046275984-ocpikg09lm5g8rmmua9063tmrj3gd6v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cbsephysicaleducationsolutions.cbsephysicaleducationsolution",
+            "certificate_hash": "1e36801f31a8125ee76a9c34acbe44af109a2504"
+          }
+        },
+        {
+          "client_id": "745046275984-oqap8fm0k5npq2saae65sf99c16l0rge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZdLAgi6WDz9yNIR2g7Z_zmPolfwqTW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745046275984-oqap8fm0k5npq2saae65sf99c16l0rge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
